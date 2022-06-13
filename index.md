@@ -32,7 +32,7 @@ _Italic Text_
 
 ## External Links
 
-[example link to YouTube video]()
+[example link to YouTube video](https://www.youtube.com/watch?v=7s5TYFPP6Uw)
 
 
 ## References
