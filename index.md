@@ -17,9 +17,9 @@ _Italic Text_
 * Bullet Point 3
 
 ## To-Do List
-- [ ] Task 1
-- [x] Task 2
-- [ ] Task 3
+[ ] Task 1
+[x] Task 2
+[ ] Task 3
 
 ## Background
 
