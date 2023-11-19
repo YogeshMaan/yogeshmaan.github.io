@@ -10,3 +10,8 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 https://github.com/YogeshMaan/yogeshmaan.github.io/assets/50791062/1bb73926-a91b-4473-944d-e9779214e1bd
 
+<video src="https://github.com/YogeshMaan/yogeshmaan.github.io/assets/50791062/1bb73926-a91b-4473-944d-e9779214e1bd" controls="controls" style="max-width: 730px;">
+</video>
+
+
+
