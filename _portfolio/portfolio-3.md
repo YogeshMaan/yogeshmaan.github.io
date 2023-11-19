@@ -6,4 +6,10 @@ collection: portfolio
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
-[![Watch the video](https://img.youtube.com/vi/pZ08bCZcu9w/maxresdefault.jpg)](https://youtu.be/pZ08bCZcu9w)
+
+
+
+
+
+https://github.com/YogeshMaan/yogeshmaan.github.io/assets/50791062/1bb73926-a91b-4473-944d-e9779214e1bd
+
