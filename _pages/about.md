@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 
 images:
-  - /images/500x300.png
-  - /images/bio-photo.jpg
+  - /images/droneMe.jpg
+  - /images/meflying.jpg
 ---
 
 > ## Welcome to my personal website!
 
-
-# Image Slideshow
 
 <div class="slideshow-container">
   {% for image in page.images %}
