@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "website developement in progress..."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -26,6 +26,8 @@ images:
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
 
+
+
 <script>
   var slideIndex = 1;
   showSlides(slideIndex);
@@ -48,5 +50,8 @@ images:
     }
     slides[slideIndex - 1].style.display = "block";
   }
+
 </script>
+
+ 
 

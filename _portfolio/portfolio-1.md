@@ -1,11 +1,15 @@
 ---
-title: "Optimal controller for a Bicopter"
-excerpt: "MAE598: Design Optimization by Prof. Yi (Max) course project Ren <br/><img src='/images/500x300.png'>"
+title: "Neural Flight: Bi-copter Control with AI"
+excerpt: "MAE598: Design Optimization by Prof. Yi (Max) course project Ren <br/><img src='/images/bc_hovering.gif' >"
 collection: portfolio
 ---
 
-# Gradient-based Algorithms and Differentiable Programming
 
+
+![Alt text](/images/bc_hovering.gif)
+
+
+## Gradient-based Algorithms and Differentiable Programming
 
 ## 1. Introduction
 Consider a simple formulation of Bicopter hovering at a point in space where the dynamic state vector $\textbf{x}(t)$ is represented by its coordinates $y(t)$, $z(t)$, and $\theta(t)$ velocity $\dot{y}(t)$, $\dot{z}(t)$, and  $\dot{\theta}(t)$, i.e., $\textbf{x}(t) = [y(t), z(t), \theta(t), \dot{y}(t), \dot{z}(t), \dot{\theta}(t)]^T$, where $t$ specifies time. The control input $\textbf{u}(t)$ to Bicopter includes thrust $u_1(t)$ and $u_2(t)$. The discrete-time dynamics follows
