@@ -83,7 +83,7 @@
             {% else %}
               "{{ teaser | prepend: "/images/" | prepend: base_path }}"
             {% endif %}
-            alt="Simulation" style="width:200px">
+            alt="Simulation">
         {% endif %}
       </div>
     </div>
@@ -115,17 +115,19 @@
   .photo,
   .content {
     display: table-cell;
-    vertical-align: middle;
+    vertical-align: top;
   }
   .photo {
-    width: 40%;
+    width: 30%;
+
   }
   .photo img {
     max-width: 100%;
     height: auto;
+    vertical-align:top;
   }
   .content {
-    width: 60%;
+    width: 70%;
     padding: 15px;
   }
 

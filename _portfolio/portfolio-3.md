@@ -1,7 +1,9 @@
 ---
 title: "Quadrotor: Design and fabrication"
-excerpt: " A 3d printed chassis for Quadrotor. <br/><img src='/images/500x300.png'>"
+excerpt: " A 3d printed chassis for Quadrotor." 
 collection: portfolio
+header:
+    teaser: 'quadrotor.png'
 ---
 
 
