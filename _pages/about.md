@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: 
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,13 +19,13 @@ I'm Yogesh, a MS Robotics and Autonomous student at Arizona State University. I'
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext"> 1/2 </div>
-    <img src="/images/droneMe.jpg" style="width:100%">
+    <img src="/images/droneMe.jpg" >
     <div class="text"> Assembling Xplorer UAV</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext"> 2/2 </div>
-    <img src="/images/meflying.jpg" style="width:100%">
+    <img src="/images/meflying.jpg" >
     <div class="text"> Xplorer drone's flight test </div>
   </div>
 
