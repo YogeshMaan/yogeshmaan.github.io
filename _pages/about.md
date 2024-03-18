@@ -6,10 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
-images:
-  - /images/droneMe.jpg
-  - /images/meflying.jpg
 ---
 
 
@@ -51,7 +47,7 @@ I'm Yogesh, a MS Robotics and Autonomous student at Arizona State University. I'
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 700px;
+  max-width: 100%;
   position:relative;
   margin: auto;
 }
