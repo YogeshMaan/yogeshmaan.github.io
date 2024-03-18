@@ -17,7 +17,7 @@ I'm Yogesh, a MS Robotics and Autonomous student at Arizona State University. I'
 <div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
+  <div class="mySlides">
     <div class="numbertext">
       <p> 1/2 </p> 
     </div>
@@ -27,7 +27,7 @@ I'm Yogesh, a MS Robotics and Autonomous student at Arizona State University. I'
     </div>
   </div>
 
-  <div class="mySlides fade">
+  <div class="mySlides">
     <div class="numbertext">
       <p> 2/2 </p>
     </div>
