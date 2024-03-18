@@ -62,7 +62,7 @@ I'm Yogesh, a MS Robotics and Autonomous student at Arizona State University. I'
 
 /* Hide the images by default*/
 .mySlides{
-  display: none;
+  max-width:100%;
 }
 
 /* Next & previous buttons */
