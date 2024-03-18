@@ -18,15 +18,23 @@ I'm Yogesh, a MS Robotics and Autonomous student at Arizona State University. I'
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <div class="numbertext"> 1/2 </div>
+    <div class="numbertext">
+      <p> 1/2 </p> 
+    </div>
     <img src="/images/droneMe.jpg" >
-    <div class="text"> Assembling Xplorer UAV</div>
+    <div class="text"> 
+      <p> Assembling Xplorer UAV </p>
+    </div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext"> 2/2 </div>
+    <div class="numbertext">
+      <p> 2/2 </p>
+    </div>
     <img src="/images/meflying.jpg" >
-    <div class="text"> Xplorer drone's flight test </div>
+    <div class="text"> 
+      <p>Xplorer drone's flight test</p>
+    </div>
   </div>
 
   <!-- Next and previous buttons -->
