@@ -11,9 +11,36 @@ Hi!
 I'm Yogesh, a MS Robotics and Autonomous student at Arizona State University. I'm a researcher at RISE lab. My research interest includes collision-resilient aerial robots. 
 <div class="slideshow-container">
   <!-- Full-width images with number and caption text -->
+    <div class="mySlides fade">
+    <div class="numbertext">
+      <p> 1/5 </p> 
+    </div>
+    <img src="/images/OpenDoor1.JPG" >
+    <div class="text"> 
+      <p> Open Door event at RISE lab </p>
+    </div>
+  </div>
+    <div class="mySlides fade">
+    <div class="numbertext">
+      <p> 2/5</p> 
+    </div>
+    <img src="/images/OpenDoor2.JPG" >
+    <div class="text"> 
+      <p> Open Door event at RISE lab</p>
+    </div>
+  </div>
+    <div class="mySlides fade">
+    <div class="numbertext">
+      <p> 3/5 </p> 
+    </div>
+    <img src="/images/OpenDoor3.JPG" >
+    <div class="text"> 
+      <p> Open Door event at RISE lab </p>
+    </div>
+  </div>
   <div class="mySlides fade">
     <div class="numbertext">
-      <p> 1/2 </p> 
+      <p> 4/5 </p> 
     </div>
     <img src="/images/droneMe.jpg" >
     <div class="text"> 
@@ -22,7 +49,7 @@ I'm Yogesh, a MS Robotics and Autonomous student at Arizona State University. I'
   </div>
   <div class="mySlides fade">
     <div class="numbertext">
-      <p> 2/2 </p>
+      <p> 5/5 </p>
     </div>
     <img src="/images/meflying.jpg" >
     <div class="text"> 
@@ -37,6 +64,9 @@ I'm Yogesh, a MS Robotics and Autonomous student at Arizona State University. I'
  <div style="text-align:center">
   <span class="dot" onclick="currentSlide(1)"></span>
   <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot" onclick="currentSlide(5)"></span>
  </div>
 <h1 style="text-align:center"> Thanks for visiting! </h1>
 <body>

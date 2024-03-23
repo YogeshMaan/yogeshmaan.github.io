@@ -1,6 +1,6 @@
 ---
 title: "Quadrotor: Design and fabrication"
-excerpt: " A 3d printed chassis for Quadrotor." 
+excerpt: "Built an inexpensive, 3d printed quadcopter from scratch. The quadcopter was deployed for photogrammetry of mines for volumetric data analysis." 
 collection: portfolio
 header:
     teaser: 'quadrotor.png'

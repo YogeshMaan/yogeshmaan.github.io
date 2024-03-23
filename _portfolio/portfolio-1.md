@@ -4,17 +4,13 @@ excerpt: "MAE598: Design Optimization by Prof. Yi (Max) course project Ren <br/>
 collection: portfolio
 header:
     teaser:  'bc_hovering_edited.gif'
-
-link: yogeshmaan.github.io
-paperurl:
-code:
 github: https://github.com/YogeshMaan/MAE598-Design-Optimization/blob/main/Project_1_gradient_based_algorithms_and_differentiable_programming.ipynb
 
 ---
 
 
 
-<img src='/images/bc_hovering.gif' style="height:400px;" />
+<img src='/images/bc_hovering.gif' alt="simulation.gif">
 
 
 ## Gradient-based Algorithms and Differentiable Programming
