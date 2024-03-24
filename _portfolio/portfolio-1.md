@@ -1,11 +1,15 @@
 ---
-title: "Neural Flight: Bi-copter Control with AI"
-excerpt: "MAE598: Design Optimization by Prof. Yi (Max) course project Ren <br/> Deployed a model predictive controller on discrete time dynamic model of bicopter"
+title: "Neural Flight: Model Predictive controller for Bi-copter"
+excerpt: "MAE598: Design Optimization by Prof. Yi (Max) Ren course project."
 collection: portfolio
 header:
     teaser:  'bc_hovering_edited.gif'
 github: https://github.com/YogeshMaan/MAE598-Design-Optimization/blob/main/Project_1_gradient_based_algorithms_and_differentiable_programming.ipynb
-
+paperurl: "here"
+details: <ul> <li>Deployed a model predictive controller on discrete time dynamic model of bicopter</li></ul>
+skills:
+    skill1: PyTorch
+    skill2: cvxpy
 ---
 
 

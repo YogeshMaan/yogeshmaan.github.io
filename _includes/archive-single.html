@@ -54,13 +54,16 @@
     <div class="img-txt">
       <div class="content">
         {% if post.excerpt and site.read_more != 'enabled' %}
-
         <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
         {% elsif post.excerpt and site.read_more == 'enabled' %}
         <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
         {% endif %}
-        <p>
-          <br>
+        {%if post.details%}
+        {{ post.details }}
+        {%endif%}  
+        {%if post.skills%}
+        <p><span class="highlighted"> {{post.skills.skill1}} </span>, <span class="highlighted"> {{post.skills.skill2}} </span></p>
+        {%endif%}  
       {% if post.link %}
         <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
       {% endif %}
@@ -98,8 +101,6 @@
       <p>Cite: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Cite: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
   </article>
@@ -118,7 +119,7 @@
     vertical-align: top;
   }
   .photo {
-    width: 30%;
+    width: 20%;
 
   }
   .photo img {
@@ -127,9 +128,19 @@
     vertical-align:top;
   }
   .content {
-    width: 70%;
-    padding: 15px;
+    width: 80%;
+    padding: 1px;
   }
-
-
+  .bordered {
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+  }
+  .highlighted {
+    background-color: rgb(192, 224, 229);
+    border-width:1px;
+    border-style:solid;
+    border-color: black;
+    font-weight: 550;
+  }
 </style>

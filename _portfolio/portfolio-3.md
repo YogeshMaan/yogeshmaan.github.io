@@ -4,6 +4,9 @@ excerpt: "Built an inexpensive, 3d printed quadcopter from scratch. The quadcopt
 collection: portfolio
 header:
     teaser: 'quadrotor.png'
+skills:
+    skill1: SolidWorks
+    skill2: Rapid Prototyping
 ---
 
 
