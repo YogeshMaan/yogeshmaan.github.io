@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![alt text](../images/Notice1.gif)
 Hi! 
 I'm Yogesh, a MS Robotics and Autonomous student at Arizona State University. I'm a researcher at RISE lab. My research interest includes collision-resilient aerial robots. 
 <div class="slideshow-container">
