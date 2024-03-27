@@ -1,22 +1,26 @@
 This document contains a detailed description of How to formulate a optimization problem for a given dynamic system and solve it as an MIQP. The dynamic system follows piecewise affine trajectories and involves mode scheduling.
 
-# Overview
+## Overview
 
 
-# Introduction
+## Introduction
 
-# Problem formulation
+## Problem formulation
 
-## Dynamic system
+### Dynamic system
 
-## Cost Function and constraint
+### Cost Function and constraint
 
-# Code
+## Code
 
-## Dependencies
+### Dependencies
 
-## Flow diagram
+### Flow diagram
 
-## Results
+### Simulation Results
 
-### Simulation
+## Learning resources 
+
+### Topics
+
+### Research papers
