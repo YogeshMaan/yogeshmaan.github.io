@@ -6,10 +6,16 @@ This document contains a detailed description of How to formulate a optimization
 ## Introduction
 
 ## Problem formulation
+At the end, am I designing an MPC controller for a desired control input to the dynamic system? 
+
 
 ### Dynamic system
 
 ### Cost Function and constraint
+
+**Cost function**: Quadratic in terminal state vector
+
+**Constraints**: How to contraint $\bold{u[:,~1:T] = 0}$ such that the mpc controller solves for $\bold{u[:,~0] = u_0}$ only?
 
 ## Code
 

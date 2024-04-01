@@ -1,0 +1,3 @@
+- Curious to know how things work
+- A life long student
+- 
