@@ -28,3 +28,6 @@
 
 
 ## Debugging
+1. More space needed to install real-time kernel for UR5 (~25GB)
+2. 
+

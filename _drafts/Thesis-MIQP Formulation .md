@@ -30,3 +30,5 @@ At the end, am I designing an MPC controller for a desired control input to the 
 ### Topics
 
 ### Research papers
+- Robotics at Google: Planar Quadcopter with inverted pendulum https://arxiv.org/pdf/2109.07081.pdf
+
