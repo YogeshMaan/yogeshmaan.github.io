@@ -13,7 +13,7 @@ skills:
 <video src="https://github.com/YogeshMaan/yogeshmaan.github.io/assets/50791062/1bb73926-a91b-4473-944d-e9779214e1bd" controls="controls" style="max-width: 730px;">
 </video>
 
-Title: Building a Quadcopter from Scratch: A Personal Journey
+# Building a Quadcopter from Scratch
 
 ## 1. Introduction
 

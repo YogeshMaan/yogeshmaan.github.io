@@ -5,7 +5,6 @@ collection: portfolio
 header:
     teaser:  'bc_hovering_edited.gif'
 github: https://github.com/YogeshMaan/MAE598-Design-Optimization/blob/main/Project_1_gradient_based_algorithms_and_differentiable_programming.ipynb
-paperurl: "here"
 details: <ul> <li>Deployed a model predictive controller on discrete time dynamic model of bicopter</li></ul>
 skills:
     skill1: PyTorch

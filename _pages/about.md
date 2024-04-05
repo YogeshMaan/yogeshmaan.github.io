@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![alt text](../images/Notice1.gif)
+# About me
 
 Hi! 
-I'm Yogesh, a MS Robotics and Autonomous student at Arizona State University. I'm a researcher at RISE lab. My research interest includes collision-resilient aerial robots. 
+I'm Yogesh, a graduate student in MS Robotics at Arizona State University and a researcher at RISE lab. My research interests lies in design, and development of control and planning algorithms for novel collision-resilient aerial robots. 
+
 <div class="slideshow-container">
   <!-- Full-width images with number and caption text -->
     <div class="mySlides fade">
@@ -70,7 +71,7 @@ I'm Yogesh, a MS Robotics and Autonomous student at Arizona State University. I'
   <span class="dot" onclick="currentSlide(4)"></span>
   <span class="dot" onclick="currentSlide(5)"></span>
  </div>
-<h1 style="text-align:center"> Thanks for visiting! </h1>
+<h1 style="text-align:left"> Thanks for visiting! </h1>
 <body>
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5om7roa650z&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 </body>
