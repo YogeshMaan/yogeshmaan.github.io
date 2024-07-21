@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  projects4fun:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -231,6 +234,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _projects4fun
+  - scope:
+      path: ""
+      type: projects4fun
     values:
       layout: single
       author_profile: true
