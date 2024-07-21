@@ -1,3 +1,3 @@
-- Curious to know how things work
+- Curious to learn how the world works
 - A life long student
 - 

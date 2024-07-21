@@ -7,9 +7,10 @@ header:
 github: https://github.com/YogeshMaan/MAE598-Design-Optimization/blob/main/Project_1_gradient_based_algorithms_and_differentiable_programming.ipynb
 details: <ul> <li>Deployed a model predictive controller on discrete time dynamic model of bicopter</li></ul>
 skills:
-    skill1: Python
-    skill2: PyTorch
-    skill3: cvxpy (Convex Optimization)
+    - Python
+    - PyTorch
+    - cvxpy 
+    - convex optimization
 ---
 
 

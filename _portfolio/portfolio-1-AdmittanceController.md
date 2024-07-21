@@ -5,9 +5,10 @@ collection: portfolio
 header:
     teaser:  'MORE_SWIFT_UAV.png'
 skills:
-    skill1: ROS 
-    skill2: Gazebo
-    skill3: Motion Planning
+    - ROS 
+    - Gazebo
+    - Path Planning
+    - Python
 ---
 <video controls src="/images/admittance_controller_vid1_compressed.mp4" style="max-width: 730px;" title="Title"> </video>
 

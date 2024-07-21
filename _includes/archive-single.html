@@ -62,7 +62,9 @@
         {{ post.details }}
         {%endif%}  
         {%if post.skills%}
-        <p><span class="highlighted"> {{post.skills.skill1}} </span>, <span class="highlighted"> {{post.skills.skill2}} </span>, <span class="highlighted"> {{post.skills.skill3}} </span></p>
+        <p>{%for skill in post.skills%}
+        <span class="highlighted"> {{skill}} </span>
+        {%endfor%}</p>
         {%endif%}  
       {% if post.link %}
         <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
@@ -74,7 +76,7 @@
         <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
       {% endif %}
       {% if post.github %}
-        <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+        <a href="{{ post.github }}"><i class="fab fa-fw fa-github fa-beat zoom" style="font-size:36px;color:black" aria-hidden="true"></i></a>
       {% endif %}
         </p>
       </div>
@@ -92,16 +94,14 @@
     </div>
 
 
-
-
-
-
     
     {% if post.citation and post.paperurl %}
       <p>Cite: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Cite: {{ post.citation }} </p>
     {% endif %}
+
+    <hr style="border-width:6px;color:slategray">
 
   </article>
 </div>
@@ -137,10 +137,14 @@
     border-color: black;
   }
   .highlighted {
-    background-color: rgb(192, 224, 229);
-    border-width:1px;
+    display:inline-block;
+    background-color: rgb(255, 255, 255);
+    border-width:3px;
+    border-radius: 8px;
     border-style:solid;
-    border-color: black;
-    font-weight: 550;
+    border-color: rgb(82, 173, 200);
+    font-weight: 450;
+    padding: 1px 8px;
+    margin: 10px 0px;
   }
 </style>

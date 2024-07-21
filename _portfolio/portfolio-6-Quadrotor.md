@@ -5,9 +5,10 @@ collection: portfolio
 header:
     teaser: 'quadrotor.png'
 skills:
-    skill1: SolidWorks (GD&T)
-    skill2: Rapid Prototyping
-    skill3: Sensor integration
+    - SolidWorks 
+    - GD&T
+    - Rapid Prototyping
+    - Sensor integration
 ---
 
 

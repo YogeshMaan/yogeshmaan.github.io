@@ -5,9 +5,9 @@ collection: portfolio
 header:
     teaser:  'EGR546_WaypointFollower.gif'
 skills:
-    skill1: Matlab
-    skill2: Flight controller
-    skill3: Simulink
+    - Matlab
+    - Flight controller
+    - Simulink
 ---
 
 

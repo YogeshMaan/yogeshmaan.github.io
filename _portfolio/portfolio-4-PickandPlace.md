@@ -5,9 +5,10 @@ collection: portfolio
 header:
     teaser:  'MAE547_Matlab.png'
 skills:
-    skill1: Matlab
-    skill2: WeBots
-    skill3: Trajectory Planning
+    - Matlab
+    - WeBots
+    - Trajectory Planning
+    - Inverse-kinematics
 ---
 
 

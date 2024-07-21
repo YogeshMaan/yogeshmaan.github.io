@@ -5,9 +5,9 @@ collection: portfolio
 header:
     teaser:  'MAE506 DC motor.png'
 skills:
-    skill1: State-feedback controller
-    skill2: Discrete-time model
-    skill3: Observer
+    - state-feedback controller
+    - discrete-time modeling
+    - observer design
 ---
 
 

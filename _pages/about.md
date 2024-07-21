@@ -14,49 +14,34 @@ I'm Yogesh, an MS Robotics student at **ASU** and an active researcher at RISE L
 
 <div class="slideshow-container">
   <!-- Full-width images with number and caption text -->
-    <div class="mySlides fade">
-    <div class="numbertext">
-      <p> 1/5 </p> 
-    </div>
-    <img src="/images/OpenDoor1.JPG" >
+  <div class="mySlides fade">
+    <img src="/images/droneMe.jpg" style="border-radius:50px" >
     <div class="text"> 
-      <p> Open Door event at RISE lab </p>
-    </div>
-  </div>
-    <div class="mySlides fade">
-    <div class="numbertext">
-      <p> 2/5</p> 
-    </div>
-    <img src="/images/OpenDoor2.JPG" >
-    <div class="text"> 
-      <p> Open Door event at RISE lab</p>
-    </div>
-  </div>
-    <div class="mySlides fade">
-    <div class="numbertext">
-      <p> 3/5 </p> 
-    </div>
-    <img src="/images/OpenDoor3.JPG" >
-    <div class="text"> 
-      <p> Open Door event at RISE lab </p>
+      <span> Assembling UAV </span>
     </div>
   </div>
   <div class="mySlides fade">
-    <div class="numbertext">
-      <p> 4/5 </p> 
-    </div>
-    <img src="/images/droneMe.jpg" >
+    <img src="/images/OpenDoor1.JPG" style="border-radius:50px"  >
     <div class="text"> 
-      <p> Assembling Xplorer UAV </p>
+      <span> Open Door event at RISE lab </span>
     </div>
   </div>
   <div class="mySlides fade">
-    <div class="numbertext">
-      <p> 5/5 </p>
-    </div>
-    <img src="/images/meflying.jpg" >
+    <img src="/images/OpenDoor2.JPG" style="border-radius:50px"  >
     <div class="text"> 
-      <p>Xplorer drone's flight test</p>
+      <span> Open Door event at RISE lab</span>
+    </div>
+  </div>
+  <div class="mySlides fade">
+    <img src="/images/OpenDoor3.JPG" style="border-radius:50px"  >
+    <div class="text"> 
+      <span> Open Door event at RISE lab </span>
+    </div>
+  </div>
+  <div class="mySlides fade">
+    <img src="/images/meflying.jpg" style="border-radius:50px"  >
+    <div class="text"> 
+      <span>Xplorer drone's flight test</span>
     </div>
   </div>
   <!-- Next and previous buttons -->
@@ -71,7 +56,9 @@ I'm Yogesh, an MS Robotics student at **ASU** and an active researcher at RISE L
   <span class="dot" onclick="currentSlide(4)"></span>
   <span class="dot" onclick="currentSlide(5)"></span>
  </div>
-<h1 style="text-align:left"> Thanks for visiting! </h1>
+
+
+<h1 style="text-align:center; margin-top: 100px;"> Thank you for visiting! </h1>
 <body>
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5om7roa650z&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 </body>
