@@ -1,0 +1,16 @@
+---
+title: "3D multi object tracking"
+excerpt: "Course project CSE591: Perception in Robotics"
+collection: portfolio
+header:
+    teaser:  '/PerceptionRobotics/demo.gif'
+skills:
+    - OpenCV
+    - Kalman Filter
+    - Object detection
+    - Tracking algorithm
+github: https://github.com/YogeshMaan/AB3DMOT
+report: /images/PerceptionRobotics/Report-Perception in Robotics.pdf
+ppt: /images/PerceptionRobotics/team_30_Final_presentation.pdf
+
+---

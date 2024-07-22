@@ -66,11 +66,11 @@
         <span class="highlighted"> {{skill}} </span>
         {%endfor%}</p>
         {%endif%}  
-      {% if post.link %}
-        <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+      {% if post.ppt %}
+        <a href="{{ post.ppt }}"><i class="fas fa-fw fa-file-powerpoint zoom" style="font-size:36px" aria-hidden="true"></i></a>
       {% endif %}
-      {% if post.paperurl %}
-        <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      {% if post.report %}
+        <a href="{{ post.report }}"><i class="fas fa-fw fa-file-pdf zoom" style="font-size:36px" aria-hidden="true"></i></a>
       {% endif %}
       {% if post.code %}
         <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
@@ -142,7 +142,7 @@
     border-width:3px;
     border-radius: 8px;
     border-style:solid;
-    border-color: rgb(82, 173, 200);
+    border-color: #1679AB;
     font-weight: 450;
     padding: 1px 8px;
     margin: 10px 0px;
