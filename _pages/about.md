@@ -7,10 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About me
 
-Hi! 
-I'm Yogesh, an MS Robotics student at **ASU** and an active researcher at RISE Lab under the guidance of Prof. Wenlong Zhang. Prior to that, I did my bachelor's in Mechanical engineering at **Indian Institute of Technolgy(IIT)**, Dharwad, India. My research work focuses on the **planning and control** of collision-resilient aerial robots for **physical interactions with the environment**.
+# :wave: Hello there! 
+
+:man_student: I'm a graduate(MS) student in **Robotics and Autonomous Systems** program at ASU, and I work as a graduate research assistant at the RISE Lab under the guidance of Prof. Wenlong Zhang.
+
+ Previously, I earned my bachelor's degree in Mechanical Engineering from the **Indian Institute of Technology (IIT), Dharwad, India**. 
+ 
+ :man_technologist: My research focuses on **planning and control** for collision-resilient aerial robots, specifically for **physical interactions with the environment**.
 
 <div class="slideshow-container">
   <!-- Full-width images with number and caption text -->
