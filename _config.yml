@@ -190,6 +190,9 @@ collections:
   projects4fun:
     output: true
     permalink: /:collection/:path/
+  open_source_projects:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -243,6 +246,15 @@ defaults:
   - scope:
       path: ""
       type: projects4fun
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _open_source_projects
+  - scope:
+      path: ""
+      type: open_source_projects
     values:
       layout: single
       author_profile: true

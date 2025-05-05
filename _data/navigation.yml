@@ -7,6 +7,9 @@ main:
   - title: "Projects4Fun"
     url: /projects4fun/
 
+  - title: "Open Source Projects"
+    url: /open_source_projects/
+
   - title: "Publications"
     url: /publications/
 
